@@ -31,7 +31,7 @@ export const siteConfig: {
     social: {
         email: 'aizwan96@gmail.com',
         twitter: '@alif_pancake',
-        github: 'aizwan',
+        github: 'https://github.com/alifizwan',
         linkedin: 'https://www.linkedin.com/in/alifizwan/',
         blog: '',
         medium: '',
